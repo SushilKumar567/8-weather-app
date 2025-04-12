@@ -3,7 +3,7 @@
 Welcome to the repository of my **Weather App** built using React.js. This app allows users to search for any city worldwide and get real-time weather data including temperature, humidity, wind speed, and current weather conditions—all displayed with intuitive icons.
 
 **Live Demo:**  
-Click [here](https://your-github-username.github.io/weather-app/) _(replace with your actual live link if deployed)_
+Click [here](https://sushilkumar567.github.io/8-weather-app/)
 
 ## Key Highlights:
 
@@ -35,7 +35,3 @@ Clean and mobile-friendly layout using custom CSS.
 **CSS3:** Custom styling for layout and weather cards.  
 **OpenWeatherMap API:** Fetches real-time weather data.  
 **Font Awesome:** For search button icon.
-
----
-
-Feel free to fork, clone, and modify this project for your own learning or development needs.
