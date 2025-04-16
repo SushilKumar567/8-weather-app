@@ -1,5 +1,6 @@
 import { React, useState, useEffect } from "react";
 import "./App.css";
+import "./Media.css";
 import Clouds from "./assets/images/clouds.png";
 import Clear from "./assets/images/clear.png";
 import Rain from "./assets/images/rain.png";
